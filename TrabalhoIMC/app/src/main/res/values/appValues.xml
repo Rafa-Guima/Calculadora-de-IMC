@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Cores do app -->
+    <color name ="appColor1">#006341</color>
+    <color name ="appColor2">#00A859</color>
+    <color name ="appColor3">#4D4D4D</color>
+    <color name ="appColor4">#B3B3B3</color>
+    <color name ="appColor5">#FFFFFF</color>
+
+
+    <!--Descrição das imagens-->
+    <string name="appImgLogo">Logo</string>
+    <string name="appImgDescAbdP">Abaixo do Peso</string>
+    <string name="appImgDescPI">Peso Ideal</string>
+    <string name="appImgDescAcdP">Acima do Peso</string>
+    <string name="appImgDescOb1">Obesidade 1</string>
+    <string name="appImgDescOb2">Obesidade 2</string>
+    <string name="appImgDescOb3">Obesidade 3</string>
+
+<!-- Variáveis do App -->
+
+
+    <string name="appBtnTítulo">Cálculora de IMC</string>
+    <string name="appBtnCalcular">Calcule!</string>
+    <string name="appBtnLimpar">Limpar</string>
+    <string name="appBtnFechar">Fechar</string>
+    <string name="imgTelaInicial">imgInicial</string>
+    <string name="appCálculdora">Cálculo do IMC</string>
+    <string name ="appT1">Peso: </string>
+    <string name ="appT2">Altura: </string>
+    <string name ="appHint1">Digite seu peso:</string>
+    <string name ="appHint2">Digite sua altura:</string>
+
+<!-- Mensagens de Retorno de IMC -->
+
+    <string name="msgRetorno">------</string>
+
+<!-- Mensagens Abaixo do Peso -->
+    <string name="appIMC1">Abaixo do Peso</string>
+    <string name="pesoIMC1">----</string>
+    <string name="alturaIMC1">----</string>
+    <string name="imcIMC1">----</string>
+    <string name="classIMC1">Você está abaixo do peso, bora se fortalecer!</string>
+
+    <!-- Mensagens Peso Ideal -->
+    <string name="appIMC2">Peso Ideal!</string>
+    <string name="pesoIMC2">----</string>
+    <string name="alturaIMC2">----</string>
+    <string name="imcIMC2">----</string>
+    <string name="classIMC2">Você está no peso ideal, parabéns!</string>
+
+    <!-- Mensagens Acima do Peso -->
+    <string name="appIMC3">Acima do Peso</string>
+    <string name="pesoIMC3">----</string>
+    <string name="alturaIMC3">----</string>
+    <string name="imcIMC3">----</string>
+    <string name="classIMC3">Você está acima do peso, mas falta pouco pro ideal força!</string>
+
+    <!-- Mensagens Obesidade Grau1 -->
+    <string name="appIMC4">Obesidade Grau 1</string>
+    <string name="pesoIMC4">----</string>
+    <string name="alturaIMC4">----</string>
+    <string name="imcIMC4">----</string>
+    <string name="classIMC4">Você está com Obesidade Grau 1, bora recuperar isso ai dog!</string>
+
+    <!-- Mensagens Obesidade Grau2 -->
+    <string name="appIMC5">Obesidade Grau 2</string>
+    <string name="pesoIMC5">----</string>
+    <string name="alturaIMC5">----</string>
+    <string name="imcIMC5">----</string>
+    <string name="classIMC5">Você está com Obesidade Grau 2, força pra chegar no peso ideal colega!</string>
+
+    <!-- Mensagens Obesidade Grau3 -->
+    <string name="appIMC6">Obesidade Grau 3</string>
+    <string name="pesoIMC6">----</string>
+    <string name="alturaIMC6">----</string>
+    <string name="imcIMC6">----</string>
+    <string name="classIMC6">Você está com Obesidade Grau 3, o caminho e longo mas você cons!</string>
+
+</resources>
